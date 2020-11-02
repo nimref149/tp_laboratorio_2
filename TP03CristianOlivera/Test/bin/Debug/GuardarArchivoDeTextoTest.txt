@@ -1,0 +1,3 @@
+﻿Este archivo se genero al probar el metodo VerificarGuardarArchivoTexto_OK() del proyecto TestUnitarioEntidades.
+Este archivo se genero al probar el metodo VerificarGuardarArchivoTexto_OK() del proyecto TestUnitarioEntidades.
+Este archivo se ha generado al probar el metodo VerificarGuardarArchivoTexto_OK() del proyecto TestUnitarioEntidades.

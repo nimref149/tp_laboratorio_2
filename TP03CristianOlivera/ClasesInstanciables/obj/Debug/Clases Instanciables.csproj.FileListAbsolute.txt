@@ -1,0 +1,26 @@
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP3\ClasesInstanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP3\ClasesInstanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP3\ClasesInstanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP3\ClasesInstanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP3\ClasesInstanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
+C:\Users\CristianDmk\Desktop\Olivera.Cristian.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\CristianDmk\Desktop\Olivera.Cristian.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\CristianDmk\Desktop\Olivera.Cristian.2A.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\CristianDmk\Desktop\Olivera.Cristian.2A.TP3\ClasesInstanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\CristianDmk\Desktop\Olivera.Cristian.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\CristianDmk\Desktop\Olivera.Cristian.2A.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\CristianDmk\Desktop\Olivera.Cristian.2A.TP3\ClasesInstanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\CristianDmk\Desktop\Olivera.Cristian.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\CristianDmk\Desktop\Olivera.Cristian.2A.TP3\ClasesInstanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\CristianDmk\Desktop\Olivera.Cristian.2A.TP3\ClasesInstanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\CristianDmk\Desktop\Olivera.Cristian.2A.TP3\ClasesInstanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\CristianDmk\Desktop\Olivera.Cristian.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\CristianDmk\Desktop\Olivera.Cristian.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
