@@ -1,3 +1,0 @@
-﻿Este archivo se genero al probar el metodo VerificarLeerArchivoTexto_OK() del proyecto TestUnitarioEntidades.
-Este archivo se genero al probar el metodo VerificarLeerArchivoTexto_OK() del proyecto TestUnitarioEntidades.
-Este archivo se genero al probar el metodo VerificarLeerArchivoTexto_OK() del proyecto TestUnitarioEntidades.
