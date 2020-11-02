@@ -16,3 +16,12 @@ C:\Users\CristianDmk\Desktop\Olivera.Cristian.2A.TP3\Archivos\bin\Debug\Archivos
 C:\Users\CristianDmk\Desktop\Olivera.Cristian.2A.TP3\Archivos\bin\Debug\Excepciones.dll
 C:\Users\CristianDmk\Desktop\Olivera.Cristian.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
 C:\Users\CristianDmk\Desktop\Olivera.Cristian.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+D:\nueva2\tp_laboratorio_2\TP03CristianOlivera\Archivos\bin\Debug\Archivos.dll
+D:\nueva2\tp_laboratorio_2\TP03CristianOlivera\Archivos\bin\Debug\Archivos.pdb
+D:\nueva2\tp_laboratorio_2\TP03CristianOlivera\Archivos\bin\Debug\Excepciones.dll
+D:\nueva2\tp_laboratorio_2\TP03CristianOlivera\Archivos\bin\Debug\Excepciones.pdb
+D:\nueva2\tp_laboratorio_2\TP03CristianOlivera\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+D:\nueva2\tp_laboratorio_2\TP03CristianOlivera\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+D:\nueva2\tp_laboratorio_2\TP03CristianOlivera\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+D:\nueva2\tp_laboratorio_2\TP03CristianOlivera\Archivos\obj\Debug\Archivos.dll
+D:\nueva2\tp_laboratorio_2\TP03CristianOlivera\Archivos\obj\Debug\Archivos.pdb
