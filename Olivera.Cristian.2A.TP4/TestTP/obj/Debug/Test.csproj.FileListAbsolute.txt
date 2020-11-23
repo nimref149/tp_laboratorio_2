@@ -1,0 +1,14 @@
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\TestTP\bin\Debug\TestTP.exe.config
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\TestTP\bin\Debug\TestTP.exe
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\TestTP\bin\Debug\TestTP.pdb
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\TestTP\bin\Debug\Entidades.dll
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\TestTP\bin\Debug\Entidades.pdb
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\TestTP\bin\Debug\Entidades.dll.config
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\TestTP\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\TestTP\obj\Debug\TestTP.Almacen.resources
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\TestTP\obj\Debug\TestTP.Properties.Resources.resources
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\TestTP\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\TestTP\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\TestTP\obj\Debug\Test.csproj.CopyComplete
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\TestTP\obj\Debug\TestTP.exe
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\TestTP\obj\Debug\TestTP.pdb
