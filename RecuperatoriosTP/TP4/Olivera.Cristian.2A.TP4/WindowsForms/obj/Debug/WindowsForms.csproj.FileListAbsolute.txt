@@ -1,0 +1,144 @@
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\Programación II - Laboratorio II\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\BaseDeDatos.exe.config
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\Programación II - Laboratorio II\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\BaseDeDatos.exe
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\Programación II - Laboratorio II\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\Programación II - Laboratorio II\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\Entidades.dll
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\Programación II - Laboratorio II\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\Entidades.pdb
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\Programación II - Laboratorio II\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\Programación II - Laboratorio II\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\BaseDeDatos.frmProducto.resources
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\Programación II - Laboratorio II\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\BaseDeDatos.Properties.Resources.resources
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\Programación II - Laboratorio II\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\Programación II - Laboratorio II\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\Programación II - Laboratorio II\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\WindowsForms.csproj.CopyComplete
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\Programación II - Laboratorio II\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\BaseDeDatos.exe
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\Programación II - Laboratorio II\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\Programación II - Laboratorio II\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\BaseDeDatos.FrmDatos.resources
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\Programación II - Laboratorio II\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\Archivos.dll
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\Programación II - Laboratorio II\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\Archivos.pdb
+C:\Users\Facu Falcioni\Desktop\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\BaseDeDatos.exe.config
+C:\Users\Facu Falcioni\Desktop\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\BaseDeDatos.exe
+C:\Users\Facu Falcioni\Desktop\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\Facu Falcioni\Desktop\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\Archivos.dll
+C:\Users\Facu Falcioni\Desktop\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\Entidades.dll
+C:\Users\Facu Falcioni\Desktop\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\Archivos.pdb
+C:\Users\Facu Falcioni\Desktop\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\Entidades.pdb
+C:\Users\Facu Falcioni\Desktop\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+C:\Users\Facu Falcioni\Desktop\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\BaseDeDatos.FrmDatos.resources
+C:\Users\Facu Falcioni\Desktop\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\BaseDeDatos.FrmProducto.resources
+C:\Users\Facu Falcioni\Desktop\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\BaseDeDatos.Properties.Resources.resources
+C:\Users\Facu Falcioni\Desktop\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Users\Facu Falcioni\Desktop\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Facu Falcioni\Desktop\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\WindowsForms.csproj.CopyComplete
+C:\Users\Facu Falcioni\Desktop\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\BaseDeDatos.exe
+C:\Users\Facu Falcioni\Desktop\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\BaseDeDatos.exe.config
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\BaseDeDatos.exe
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\Archivos.dll
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\Entidades.dll
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\Archivos.pdb
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\bin\Debug\Entidades.pdb
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\BaseDeDatos.FrmDatos.resources
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\BaseDeDatos.FrmProducto.resources
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\BaseDeDatos.Properties.Resources.resources
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\WindowsForms.csproj.CopyComplete
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\BaseDeDatos.exe
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FrmDatos.resources
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FrmProducto.resources
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\Archivos.dll
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\Entidades.dll
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\Archivos.pdb
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\Entidades.pdb
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\Archivos.dll
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\Entidades.dll
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\Archivos.pdb
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\Entidades.pdb
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FrmDatos.resources
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FrmProducto.resources
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\Facu Falcioni\Desktop\UTN\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.Mostrar.resources
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FrmPantalla.resources
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FrmDatosPantalla.resources
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FrmPrincipal.resources
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.Mostrar.resources
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FrmDatosSmartPhone.resources
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FrmSmartPhone.resources
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\Archivos.dll
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\Entidades.dll
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\Archivos.pdb
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\Entidades.pdb
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\Entidades.dll.config
+C:\Users\Facu Falcioni\Desktop\UTN\2do Cuatrimestre 2020\tp_laboratorio_2\Trabajo Practico 4\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\WindowsForms.exe.config
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\WindowsForms.exe
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\WindowsForms.pdb
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\Archivos.dll
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\Entidades.dll
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\Archivos.pdb
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\Entidades.pdb
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\bin\Debug\Entidades.dll.config
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FrmPantalla.resources
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FrmDatosPantalla.resources
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FrmPrincipal.resources
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.Mostrar.resources
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FrmDatosSmartPhone.resources
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FrmSmartPhone.resources
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.exe
+D:\2Espacio PROGRAMACION 2\TP4 GITHUBS\NUEVOS TP4\tp4 falcioni\Falcioni.Facundo.2A.TP4\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FrmPantalla.resources
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FrmDatosPantalla.resources
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FrmPrincipal.resources
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\obj\Debug\WindowsForms.Mostrar.resources
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FrmDatosSmartPhone.resources
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FrmSmartPhone.resources
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\bin\Debug\Archivos.dll
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\bin\Debug\Entidades.dll
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\bin\Debug\Archivos.pdb
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\bin\Debug\Entidades.pdb
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\bin\Debug\Entidades.dll.config
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete

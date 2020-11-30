@@ -1,0 +1,38 @@
+Vendedora:
+Cantidad: 5
+Precio total: 1240
+<--------------------------------------------------------------------------->
+Codigo de compra: 1
+Producto: Ace Core Prime
+Marca: Apple
+Precio: 280
+S.O: iOS
+Memoria: 64GB
+<--------------------------------------------------------------------------->
+Codigo de compra: 2
+Producto: Prime Core
+Marca: Xiaomi
+Precio: 220
+S.O: Android
+Memoria: 16GB
+<--------------------------------------------------------------------------->
+Codigo de compra: 3
+Producto: Grand Prime Plus
+Marca: Apple
+Precio: 260
+S.O: Android
+Memoria: 16GB
+<--------------------------------------------------------------------------->
+Codigo de compra: 4
+Producto: Prime Core
+Marca: Apple
+Precio: 220
+S.O: Android
+Memoria: 16GB
+<--------------------------------------------------------------------------->
+Codigo de compra: 5
+Producto: Grand Prime Plus
+Marca: Xiaomi
+Precio: 260
+S.O: Android
+Memoria: 16GB

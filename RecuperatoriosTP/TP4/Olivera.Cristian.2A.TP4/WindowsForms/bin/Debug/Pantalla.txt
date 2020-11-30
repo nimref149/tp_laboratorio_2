@@ -1,0 +1,31 @@
+Vendedora:
+Cantidad: 4
+Precio total: 1700
+<--------------------------------------------------------------------------->
+Codigo de compra: 1
+Producto: Televisor
+Marca: LG
+Precio: 400
+Resolucion: 1080p
+Pulgadas: 32
+<--------------------------------------------------------------------------->
+Codigo de compra: 2
+Producto: Monitor
+Marca: Samsung
+Precio: 450
+Resolucion: 1080p
+Pulgadas: 40
+<--------------------------------------------------------------------------->
+Codigo de compra: 3
+Producto: Monitor
+Marca: PHILIPS
+Precio: 400
+Resolucion: 1080p
+Pulgadas: 32
+<--------------------------------------------------------------------------->
+Codigo de compra: 4
+Producto: Monitor
+Marca: SAMSUNG
+Precio: 450
+Resolucion: 1080p
+Pulgadas: 32

@@ -1,0 +1,16 @@
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\Test\bin\Debug\Test.exe.config
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\Test\bin\Debug\Test.exe
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\Test\bin\Debug\Test.pdb
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\Test\bin\Debug\Archivos.dll
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\Test\bin\Debug\Entidades.dll
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\Test\bin\Debug\WindowsForms.exe
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\Test\bin\Debug\Archivos.pdb
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\Test\bin\Debug\Entidades.pdb
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\Test\bin\Debug\Entidades.dll.config
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\Test\bin\Debug\WindowsForms.pdb
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\Test\bin\Debug\WindowsForms.exe.config
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\Test\obj\Debug\Test.exe
+C:\Users\CristianDmk\source\repos\Olivera.Cristian.2A.TP4\Test\obj\Debug\Test.pdb

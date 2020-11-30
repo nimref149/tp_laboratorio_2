@@ -1,0 +1,17 @@
+Vendedora:
+Cantidad: 2
+Precio total: 900
+<--------------------------------------------------------------------------->
+Codigo de compra: 1
+Producto: Monitor
+Marca: Samsung
+Precio: 450
+Resolucion: 1080p
+Pulgadas: 32
+<--------------------------------------------------------------------------->
+Codigo de compra: 2
+Producto: Monitor
+Marca: Samsung
+Precio: 450
+Resolucion: 1080p
+Pulgadas: 32
